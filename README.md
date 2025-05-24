@@ -1,10 +1,7 @@
-# CycesX Prompt Engineering Assessment
-
-This repository contains the prompt engineering solution for an AI R&D internship assessment. The objective was to design, improve, and test AI-generated communication prompts for a cross-border payments platform — **CycesX** — targeted at Indian business owners who export internationally.
 
 ## 📄 Project Overview
 
-The assessment has three key parts:
+The project has three key parts:
 
 1. **Initial Prompt Creation**:
     - Email, WhatsApp, and LinkedIn InMail prompts tailored to different business sizes (startups vs. large exporters).
@@ -43,8 +40,6 @@ This project demonstrates the ability to:
 - Propose a lightweight, effective testing framework.
 
 ## 📂 Files
-
-- `cycles.docx`: Contains the full prompt development and analysis.
 - `README.md`: Documentation for GitHub repository.
 
 ---
